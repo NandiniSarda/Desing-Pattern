@@ -1,4 +1,4 @@
-package Structural.Adapter.BankApis;
+package Structural.AdapterandFacade.BankApis;
 
 public class YesBankApis {
 public int getBalance(int balance)

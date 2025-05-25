@@ -1,5 +1,6 @@
-package Structural.Adapter;
+package Structural.AdapterandFacade;
 
+//Facade
 public class BillPayment {
 
     public  void payBill(BankApi bankApi, int account)
@@ -14,3 +15,6 @@ public class BillPayment {
         }
     }
 }
+
+
+

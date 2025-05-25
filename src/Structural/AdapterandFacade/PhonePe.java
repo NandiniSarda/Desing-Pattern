@@ -1,4 +1,4 @@
-package Structural.Adapter;
+package Structural.AdapterandFacade;
 
 public class PhonePe {
     BillPayment billPayment;

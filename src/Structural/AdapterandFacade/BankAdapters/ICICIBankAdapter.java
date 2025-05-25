@@ -1,7 +1,7 @@
-package Structural.Adapter.BankAdapters;
+package Structural.AdapterandFacade.BankAdapters;
 
-import Structural.Adapter.BankApi;
-import Structural.Adapter.BankApis.ICICIApi;
+import Structural.AdapterandFacade.BankApi;
+import Structural.AdapterandFacade.BankApis.ICICIApi;
 
 public class ICICIBankAdapter implements BankApi {
     ICICIApi iciciApi= new ICICIApi();

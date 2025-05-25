@@ -1,7 +1,6 @@
-package Structural.Adapter;
+package Structural.AdapterandFacade;
 
-import Structural.Adapter.BankAdapters.ICICIBankAdapter;
-import Structural.Adapter.BankAdapters.YesBankAdapter;
+import Structural.AdapterandFacade.BankAdapters.YesBankAdapter;
 
 public class Client {
     public static void main(String[] args) {

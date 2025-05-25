@@ -1,4 +1,4 @@
-package Structural.Adapter.BankApis;
+package Structural.AdapterandFacade.BankApis;
 
 public class ICICIApi {
     public int fetchBalance(int balance)

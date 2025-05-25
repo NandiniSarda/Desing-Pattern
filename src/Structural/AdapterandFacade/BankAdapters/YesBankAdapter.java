@@ -1,7 +1,7 @@
-package Structural.Adapter.BankAdapters;
+package Structural.AdapterandFacade.BankAdapters;
 
-import Structural.Adapter.BankApi;
-import Structural.Adapter.BankApis.YesBankApis;
+import Structural.AdapterandFacade.BankApi;
+import Structural.AdapterandFacade.BankApis.YesBankApis;
 
 public class YesBankAdapter implements BankApi {
     YesBankApis yesBankApis= new YesBankApis();
